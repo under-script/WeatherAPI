@@ -1,0 +1,4 @@
+# Common requirements
+Django
+djangorestframework
+requests
