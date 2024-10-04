@@ -1,4 +1,8 @@
-# Common requirements
 Django
 djangorestframework
 requests
+django-redis
+django-environ
+icecream
+drf-spectacular
+drf-spectacular-sidecar
